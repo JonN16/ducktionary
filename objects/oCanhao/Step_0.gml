@@ -1,0 +1,1 @@
+oCanhao.sprite_index = global.Canhaoskins_struct[global.SkinCanhaoAtual].skin

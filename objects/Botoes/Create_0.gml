@@ -1,0 +1,9 @@
+global.botaoPlay = false 
+global.botaoLeave = false
+global.botaoSkins = false
+global.botaoConfig = false
+global.jogadorPerdeu = false
+global.botaoMapas = false
+global.SkinEscolhida = global.SkinAtual
+global.SkinPato1Escolhida = global.SkinPato1Atual
+global.SkinCanhaoEscolhida = global.SkinCanhaoAtual

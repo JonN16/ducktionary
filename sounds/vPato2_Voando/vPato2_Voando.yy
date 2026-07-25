@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"vPato2_Voando",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":2.916,
+  "exportDir":"",
+  "name":"vPato2_Voando",
+  "parent":{
+    "name":"Sons",
+    "path":"folders/Sons.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"vPato2_Voando.m4a",
+  "volume":1.0,
+}

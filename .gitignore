@@ -1,0 +1,17 @@
+# Caches e builds do GameMaker
+.YYP/
+options/main/inherited/
+export/
+*.win
+*.unx
+*.key
+*.yyz
+
+# Arquivos temporarios e de configuração pessoal
+*.user
+*.log
+.DS_Store
+Thumbs.dbc
+sprites/*
+# Configurações de IDEs (como o próprio VS Code)
+.vscode/

@@ -1,0 +1,1 @@
+draw_perguntas_respostas(global.dicionario);
